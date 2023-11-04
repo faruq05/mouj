@@ -37,4 +37,16 @@
     .text_contain {
         padding: 20px 0px;
     }
+
+    .footer{
+        text-align: center;
+    }
+
+    .cc p{
+        margin: 5px 0px;
+    }
+    
+    .footerLink{
+        justify-content: center;
+    }
 }
