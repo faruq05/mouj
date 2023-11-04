@@ -1,0 +1,40 @@
+@media(max-width:991px) {
+    .navmenu {
+        padding-bottom: 50px;
+        flex-direction: column;
+    }
+
+    .leftmenu {
+        width: 100% !important;
+    }
+
+    .last_menu {
+        justify-content: center;
+    }
+
+    .rightlogo {
+        display: none;
+    }
+
+    .midmenu{}
+
+    .middlenav{
+        width: 100%;
+    }
+
+    .search-box {
+        width: 100%;
+    }
+
+    .search-btn {
+        width: 20%;
+    }
+
+    .dropdown {
+        width: 100%;
+    }
+
+    .text_contain {
+        padding: 20px 0px;
+    }
+}
